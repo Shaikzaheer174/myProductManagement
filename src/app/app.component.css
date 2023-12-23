@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Inter&family=Poppins:wght@600&family=Raleway:wght@300&display=swap');
+
+.center {
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+    /* font-family: 'Inter', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Raleway', sans-serif; */
+}
+
+.heading {
+    top: auto;
+    font-size: 25px;
+    background-color: aliceblue;
+    margin-top: -35px;
+    width: 100%;
+    position: static;
+}
